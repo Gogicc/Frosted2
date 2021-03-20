@@ -1,0 +1,26 @@
+#Denser river grass
+moreGrassInRivers = true
+fallenTrees = true
+seaOats = true
+#Seagrass in lakes
+moreSeagrass = true
+barkMushrooms = true
+glowcap = true
+seashells = true
+twigs = true
+# % chance of groundcover placement
+#Range: 0 ~ 100
+groundcoverChance = 100
+charredBones = true
+iceChunks = true
+netherNettles = true
+#Tropical fish in jungles
+jungleTropicalFish = true
+rocks = true
+bones = true
+bushes = true
+pinecones = true
+cobwebs = true
+fallenLeaves = true
+cattails = true
+

@@ -1,0 +1,32 @@
+
+[General]
+	#Minimal block updates per tick
+	#Range: 0 ~ 100000
+	minBlockUpdates = 500
+
+[Visual]
+	#Tweaks shape of fluid blocks.
+	# False -> default 
+	# True -> New advanced
+	setFluidRenderType = true
+
+[Fluids]
+	#OwO
+	setFiniteFluids = true
+	#UwU
+	#Range: 0 ~ 256
+	setMaxEqualizeDistance = 16
+	#-_-
+	#Range: 0 ~ 256
+	setMaxSlidingDistance = 5
+	#Will fluids slide down from hills
+	setSlide = true
+	#^u^
+	#Range: 0 ~ 8
+	setMaxBucketDistance = 8
+
+[Blocks]
+	#!!! DON'T TOUCH IT !!!
+	# Work in progress...
+	enableBlockPhysics = false
+

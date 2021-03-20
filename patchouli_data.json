@@ -1,0 +1,32 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:spells/projectile",
+        "ars_nouveau:items/armor",
+        "ars_nouveau:apparatus/amulet_of_mana_regen",
+        "ars_nouveau:resources/arcane_ore",
+        "ars_nouveau:getting_started/spell_casting",
+        "ars_nouveau:getting_started/mana"
+      ],
+      "bookmarks": [],
+      "history": [
+        "ars_nouveau:getting_started/mana",
+        "ars_nouveau:getting_started/spell_casting",
+        "ars_nouveau:apparatus/amulet_of_mana_regen",
+        "ars_nouveau:resources/arcane_ore",
+        "ars_nouveau:items/armor",
+        "ars_nouveau:spells/projectile"
+      ],
+      "completedManualQuests": []
+    },
+    "geolosys:field_manual": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    }
+  }
+}

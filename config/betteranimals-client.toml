@@ -1,0 +1,19 @@
+
+[minecraft]
+	replace_wolf = true
+	replace_sheep = true
+	replace_cat = true
+	replace_spider = true
+	replace_dolphin = true
+	replace_polarbear = true
+	replace_chicken = true
+	replace_mooshroom = true
+	replace_cow = true
+	replace_cavespider = true
+	replace_pig = true
+	replace_ocelot = true
+	replace_fox = true
+	replace_squid = true
+	replace_silverfish = true
+	replace_bee = true
+

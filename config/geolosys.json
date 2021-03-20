@@ -1,0 +1,105 @@
+{
+    "ores": [
+        {
+            "blocks": ["geolosys:hematite_ore", 70, "geolosys:limonite_ore", 30],
+            "samples": ["geolosys:hematite_ore_sample", 100],
+            "yMin": 32,
+            "yMax": 60,
+            "chance": 22,
+            "size": 72,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "DIKE"
+        },
+        {
+            "blocks": ["geolosys:malachite_ore", 70, "geolosys:azurite_ore",30],
+            "samples": ["geolosys:malachite_ore_sample", 100],
+            "yMin": 25,
+            "yMax": 52,
+            "chance": 16,
+            "size": 72,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "DIKE"
+        },
+        {
+            "blocks": ["geolosys:gold_ore", 100],
+            "samples": ["geolosys:gold_ore_sample", 100],
+            "yMin": 5,
+            "yMax": 40,
+            "chance": 19,
+            "size": 55,
+            "dimBlacklist": [-1, 1],
+            "density": 0.75,
+            "type": "SPARSE"
+        },
+        {
+            "blocks": ["geolosys:galena_ore", 100],
+            "samples": ["geolosys:galena_ore_sample", 100],
+            "yMin": 16,
+            "yMax": 50,
+            "chance": 19,
+            "size": 72,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "DIKE"
+        },
+        {
+            "blocks": ["geolosys:sphalerite_ore", 100],
+            "samples": ["geolosys:sphalerite_ore_sample", 100],
+            "yMin": 35,
+            "yMax": 55,
+            "chance": 16,
+            "size": 24,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "DIKE"
+        },
+        {
+            "blocks": ["geolosys:kimberlite_ore", 100],
+            "samples": ["geolosys:kimberlite_ore_sample", 100],
+            "yMin": 2,
+            "yMax": 20,
+            "chance": 15,
+            "size": 20,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "SPARSE"
+        },
+        {
+            "blocks": ["geolosys:lapis_ore", 100],
+            "samples": ["geolosys:lapis_ore_sample", 100],
+            "yMin": 10,
+            "yMax": 38,
+            "chance": 31,
+            "size": 32,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "SPARSE"
+        },
+        {
+            "blocks": ["geolosys:cinnabar_ore", 100],
+            "samples": ["geolosys:cinnabar_ore_sample", 100],
+            "yMin": 5,
+            "yMax": 12,
+            "chance": 17,
+            "size": 64,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "SPARSE"
+        },
+        {
+            "blocks": ["geolosys:coal_ore", 70, "geolosys:anthracite_coal_ore", 10, "geolosys:bituminous_coal_ore", 10, "geolosys:lignite_ore", 10],
+            "samples": ["geolosys:coal_ore_sample", 100],
+            "yMin": 28,
+            "yMax": 78,
+            "chance": 23,
+            "size": 64,
+            "dimBlacklist": [-1, 1],
+            "density": 0.95,
+            "type": "LAYER"
+        }
+
+    ],
+    "stones": []
+}
