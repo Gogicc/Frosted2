@@ -8,7 +8,7 @@
             "chance": 22,
             "size": 72,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "DIKE"
         },
         {
@@ -19,7 +19,7 @@
             "chance": 16,
             "size": 72,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "DIKE"
         },
         {
@@ -30,7 +30,7 @@
             "chance": 19,
             "size": 55,
             "dimBlacklist": [-1, 1],
-            "density": 0.75,
+            "density": 1.0,
             "type": "SPARSE"
         },
         {
@@ -41,7 +41,7 @@
             "chance": 19,
             "size": 72,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "DIKE"
         },
         {
@@ -52,7 +52,7 @@
             "chance": 16,
             "size": 24,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "DIKE"
         },
         {
@@ -63,7 +63,7 @@
             "chance": 15,
             "size": 20,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "SPARSE"
         },
         {
@@ -74,7 +74,7 @@
             "chance": 31,
             "size": 32,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "SPARSE"
         },
         {
@@ -85,7 +85,7 @@
             "chance": 17,
             "size": 64,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "SPARSE"
         },
         {
@@ -96,7 +96,7 @@
             "chance": 23,
             "size": 64,
             "dimBlacklist": [-1, 1],
-            "density": 0.95,
+            "density": 1.0,
             "type": "LAYER"
         }
 

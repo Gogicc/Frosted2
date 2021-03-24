@@ -190,7 +190,7 @@
 	#Should a player have all their skills wiped to level 1 upon death?
 	wipeAllSkillsUponDeathPermanently = false
 	#Should fireworks appear on level up?
-	levelUpFirework = true
+	levelUpFirework = false
 	#What is the baseXp to reach level 2 ( baseXp + level * xpPerLevel )
 	#Range: 1.0 ~ 1000000.0
 	baseXp = 250.0

@@ -3519,6 +3519,116 @@
           },
           "userInstall": false,
           "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 342623,
+          "name": "Healing Campfire",
+          "version": {
+            "id": 3220576,
+            "name": "healingcampfire_1.16.5-3.2",
+            "metadata": {
+              "sha1": "0077055a1a9da2463e6bd01ff2c40858222e706b",
+              "size": 9492,
+              "path": "mods/healingcampfire_1.16.5-3.2.jar",
+              "url": "/mods/342623/3220576/healingcampfire_1.16.5-3.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 342584,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 347394,
+          "name": "No Hostiles Around Campfire",
+          "version": {
+            "id": 3227174,
+            "name": "nohostilesaroundcampfire_1.16.5-3.3",
+            "metadata": {
+              "sha1": "e227aa6c60c6ce8630abeeb79cf59843a16405aa",
+              "size": 11166,
+              "path": "mods/nohostilesaroundcampfire_1.16.5-3.3.jar",
+              "url": "/mods/347394/3227174/nohostilesaroundcampfire_1.16.5-3.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 342584,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31234096854800,
+          "name": "majrusz-library-1.16.4-1.4.0",
+          "version": {
+            "name": "1.0",
+            "metadata": {
+              "size": 0,
+              "path": "mods/majrusz-library-1.16.4-1.4.0.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31234101633200,
+          "name": "majruszs-difficulty-1.16.5-0.5.2",
+          "version": {
+            "name": "1.0",
+            "metadata": {
+              "size": 0,
+              "path": "mods/majruszs-difficulty-1.16.5-0.5.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 271605,
+          "name": "Corpse Complex",
+          "version": {
+            "id": 3189676,
+            "name": "corpsecomplex-forge-1.16.5-4.0.2.3",
+            "metadata": {
+              "sha1": "7bd007afb17d472bbd87309d4c36914def08c1a7",
+              "size": 165678,
+              "path": "mods/corpsecomplex-forge-1.16.5-4.0.2.3.jar",
+              "url": "/mods/271605/3189676/corpsecomplex-forge-1.16.5-4.0.2.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "version": {
+            "id": 3248744,
+            "name": "[1.16.5] Gravestone Mod 1.16.5-1.0.3",
+            "metadata": {
+              "sha1": "0d0a445d1f7445619f2f2f13b53ed75b9d8310bc",
+              "size": 233654,
+              "path": "mods/gravestone-1.16.5-1.0.3.jar",
+              "url": "/mods/238551/3248744/gravestone-1.16.5-1.0.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
         }
       ],
       "resourcePacks": [],

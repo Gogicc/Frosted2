@@ -221,7 +221,7 @@
 		"Item Stack Multiplier" = 0.5
 		#All the foods max stack sizes will be multiplied by this value to increase / decrease them (after Food Stack Reduction). In the example with the Porkchop with this set to 0.5 Cooked Porkchops will stack up to 12.
 		#Range: 0.01 ~ 64.0
-		"Food Stack Multiplier" = 0.5
+		"Food Stack Multiplier" = 0.25
 		#Items or tags that will ignore the stack changes. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["#minecraft:fishes", "minecraft:stone"].
 		"Items Blacklist" = ["minecraft:rotten_flesh", "minecraft:potion"]
 		#All the blocks max stack sizes will be multiplied by this value to increase / decrease them. This is applied after the reduction from 'Block Stack Reduction'.
@@ -276,7 +276,7 @@
 	#Slower Hoes and more fragile
 	[Farming."Hoes Nerfs"]
 		#When true, Wooden and Stone Hoes will not be usable to till dirt and will be heavily damaged when trying to. The list of "unusable" hoes can be changed with datapacks by changing the iguanatweaksreborn:disabled_hoes tag
-		"Disable Low Tier Hoes" = true
+		"Disable Low Tier Hoes" = false
 		#A list of hoes and ticks that a hoe will go on cooldown. The format is modid:itemid,ticks. 20 ticks = 1 second. You can even use tags as #modid:tag,ticks.
 		"Hoes Cooldowns" = ["minecraft:stone_hoe,20", "minecraft:iron_hoe,15", "minecraft:golden_hoe,4", "minecraft:diamond_hoe,10", "minecraft:netherite_hoe,6", "vulcanite:vulcanite_hoe,15"]
 		#When an hoe is used to till dirt it will lose this durability instead of 1. Set to 1 to disable
