@@ -122,6 +122,8 @@ key_key.elenaidodge.dodge:key.keyboard.left.alt
 key_key.astikorcarts.desc:key.keyboard.r
 key_doubleslabs.key.toggleVerticalSlabPlacement:key.keyboard.caps.lock
 key_key.curios.open.desc:key.keyboard.g
+key_key.ftbquests.quests:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
 key_key.pmmo.showBar:key.keyboard.tab
 key_key.pmmo.showList:key.keyboard.left.alt
 key_key.pmmo.toggleTooltip:key.keyboard.f6
@@ -130,13 +132,12 @@ key_key.pmmo.openMenu:key.keyboard.p
 key_key.pmmo.openSettings:key.keyboard.unknown
 key_key.pmmo.openSkills:key.keyboard.unknown
 key_key.pmmo.openGlossary:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.unknown
-key_key.pickup.item:key.keyboard.unknown
 key_key.scalinghealth.difficulty:key.keyboard.z
-key_key.ars_nouveau.open_book:key.keyboard.unknown
+key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v
 key_key.ars_nouveau.previous_slot:key.keyboard.z
 key_key.ars_nouveau.next_slot:key.keyboard.x
+key_keybind.xreliquary.fortune_coin:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.left.bracket

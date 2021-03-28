@@ -1,0 +1,9 @@
+{
+    "content": "minecraft:dirt",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 5,
+    "weight": 100
+}
